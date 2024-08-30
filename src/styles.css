@@ -2,3 +2,20 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+.justify-text {
+  text-align: justify;
+}
+
+.justify-center-text {
+  text-align: justify;
+  text-align-last: center;
+}
+
+/* h1 {
+  font-family: poppins;
+}
+
+body {
+  font-family: nunito-sans;
+} */
